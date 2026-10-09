@@ -36,10 +36,11 @@ const TURNSTILE_SITE_KEY = "";
 
 // Config project Firebase kamu (Project Settings → General → Your apps → SDK setup).
 const firebaseConfig = {
-  apiKey: "AIzaSyA1LVWhxvN8GDPycPOa5KkLVAco9LG2srw",
-  authDomain: "webfolio-0.firebaseapp.com",
-  projectId: "webfolio-0",
-  storageBucket: "webfolio-0.firebasestorage.app",
-  messagingSenderId: "11834241009",
-  appId: "1:11834241009:web:1d36dfc323fa3ff2aa9e50"
+  apiKey: "AIzaSyBQCvEgWfnvOlkDF9Ey5ou5fLdDApcQvIE",
+  authDomain: "webporto-0.firebaseapp.com",
+  projectId: "webporto-0",
+  storageBucket: "webporto-0.firebasestorage.app",
+  messagingSenderId: "1093873006619",
+  appId: "1:1093873006619:web:adee0861c1a6d179d0a0be",
+  measurementId: "G-9SRY64LHHV"
 };
